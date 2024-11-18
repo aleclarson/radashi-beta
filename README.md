@@ -1,3 +1,15 @@
-You're probably looking for [radashi-org/radashi](https://github.com/radashi-org/radashi).
+# radashi-canary
 
-This repo only exists in order to prevent automatic beta releases from spamming the tag list in the main repo.
+This repository is where we publish pre-releases of [Radashi](https://github.com/radashi-org/radashi), including release notes.
+
+See the [Releases](https://github.com/radashi-org/radashi-canary/releases) tab for the latest pre-releases.
+
+### Get notified
+
+Click the "Watch" button and select "Custom" (or "All Activity") to get notified of new pre-releases.
+
+### Source code
+
+The [beta](https://github.com/radashi-org/radashi/tree/beta) branch contains the source code for minor pre-releases.
+
+The [next](https://github.com/radashi-org/radashi/tree/next) branch contains the source code for major pre-releases.
